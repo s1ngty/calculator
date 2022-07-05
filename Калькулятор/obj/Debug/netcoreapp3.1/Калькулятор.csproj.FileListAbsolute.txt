@@ -1,0 +1,16 @@
+C:\Users\crazy\source\repos\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.exe
+C:\Users\crazy\source\repos\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.deps.json
+C:\Users\crazy\source\repos\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.runtimeconfig.json
+C:\Users\crazy\source\repos\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.runtimeconfig.dev.json
+C:\Users\crazy\source\repos\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.dll
+C:\Users\crazy\source\repos\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.pdb
+C:\Users\crazy\source\repos\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.csproj.AssemblyReference.cache
+C:\Users\crazy\source\repos\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.Form1.resources
+C:\Users\crazy\source\repos\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.csproj.GenerateResource.cache
+C:\Users\crazy\source\repos\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crazy\source\repos\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.AssemblyInfoInputs.cache
+C:\Users\crazy\source\repos\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.AssemblyInfo.cs
+C:\Users\crazy\source\repos\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\crazy\source\repos\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.dll
+C:\Users\crazy\source\repos\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.pdb
+C:\Users\crazy\source\repos\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.genruntimeconfig.cache
